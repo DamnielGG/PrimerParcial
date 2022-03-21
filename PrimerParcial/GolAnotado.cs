@@ -8,7 +8,7 @@ namespace PrimerParcial
 {
     class GolAnotado
     {
-        public string Identificacion_de_jugador { get; set; }
+        public int Identificacion_de_jugador { get; set; }
         public DateTime Fechadejuego { get; set; }
         public string Nombredeequipo { get; set; }
         public int Numerodegoles { get; set; }
